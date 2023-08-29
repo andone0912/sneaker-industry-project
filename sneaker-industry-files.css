@@ -35,7 +35,6 @@ body{
     margin-right: 20px;
 }
 
-
 .first-text{
     display: flex;
     align-items: center; 
@@ -65,7 +64,6 @@ body{
     margin-right: 5px;
 
 }
-
 
 .third-text{
     display: flex;
@@ -159,7 +157,6 @@ body{
 
 }
 
-
 .bottom-header-items{
     width: fit-content;   
 }
@@ -203,8 +200,6 @@ body{
     
 }
 
-
-
 .bottom-header-items-alt{
     width: 540px;
 }
@@ -213,7 +208,6 @@ body{
     margin-right: 10px;
 
 }
-
 
 .invisible-numbers{
     color: #fff;
@@ -339,22 +333,13 @@ body{
     .first-text{
         font-size: 11px;
     }
-
-
-  
-
 }
-
-
 
 .search-bar-2{
     margin-right: 10px;
 
 
 }
-
-
-
 
 .log-in-class-2{
 
@@ -364,10 +349,6 @@ body{
 .shopping-cart-2{
     margin-right: 10px;
 }
-
-
-
-
 
 /* Photo Container Section */
 
@@ -382,9 +363,7 @@ body{
     height: 100%;
     background-image: url(images/easybox-photo.png);
     background-size: 100% 100%;
-    }
-
-
+}
 
 .in-photo-section{
     height: 100%;
@@ -479,7 +458,6 @@ body{
     }
     
 }
-
 
 @media(max-width:366px){
     .hidden-text-subtitle{
@@ -784,7 +762,6 @@ body{
 
     }
 
-
     .latest-products-flexbox-container{
         display: grid;
         grid-template-columns: 1fr;
@@ -799,8 +776,6 @@ body{
         position: relative;
     }
         
-
-
 }
 
 @media(max-width:550px){
@@ -875,6 +850,7 @@ body{
     left: 30px;
 
 }
+
 .latest-products-overlay-main-text{
     color:#fff;
     font-size: 36px;
@@ -1075,7 +1051,6 @@ body{
     padding: 0 25vw 0 25vw;
     margin-top: 40px;
 }
-
 
 .about-title, .about-text, .secondary-about-title, .secondary-about-text{
     text-align: center;
